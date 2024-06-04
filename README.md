@@ -10,10 +10,10 @@ Track occupancy rates and revenue
 Identify trends and patterns to optimize operations
 
 # Key Features
-Interactive Dashboards: User-friendly dashboards that provide a high-level overview of key metrics.
-Detailed Reports: In-depth reports on customer demographics, occupancy rates, and revenue trends.
-Data Filters: Customizable filters to drill down into specific time periods, locations, or customer segments.
-Visualizations: A variety of visualizations including bar charts, line graphs, and heat maps to represent data effectively.
+* Interactive Dashboards: User-friendly dashboards that provide a high-level overview of key metrics.
+* Detailed Reports: In-depth reports on customer demographics, occupancy rates, and revenue trends.
+* Data Filters: Customizable filters to drill down into specific time periods, locations, or customer segments.
+* Visualizations: A variety of visualizations including bar charts, line graphs, and heat maps to represent data effectively.
 
 # Usage
 Explore the interactive dashboards to get an overview of the key metrics.
